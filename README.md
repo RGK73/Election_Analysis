@@ -32,6 +32,11 @@ The winner of the election was:
   - Candidate b).Diana DeGette , who received 73.8 % of the vote and 272892 number of votes.
   
   ## Challenge Overview
-  
+  After doing analysis and submitting election audit results to the election commisiion, they requested some additional data to complete the audit.
+  1.The voter turnout for each county
+  2.The percentage of votes from each county out of the total count
+  3.The county with the highest turnout
+    
   ## Challenge Summary
-  
+  For the additinal data for audit, we have to read counties from the given data source and extract the number of counties first.
+  Then by using repetition statements like for loops, conditional statements with logical operators like if and >, and using f strings in print statements, we were able to format the results in the way as wanted by election commisssion. 
