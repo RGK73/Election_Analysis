@@ -40,3 +40,23 @@ The winner of the election was:
   ## Challenge Summary
   For the additinal data for audit, we have to read counties from the given data source and extract the number of counties first.
   Then by using repetition statements like for loops, conditional statements with logical operators like if and >, and using f strings in print statements, we were able to format the results in the way as wanted by election commisssion. 
+Lot of formatting has to be done to get the exact format of the results.
+
+### The additional analysis of the election shows that:
+1. There were "369,711" votes cast in the election.
+2. The counties were:
+   - a). Jefferson
+   - b). Denver
+   - c). Arapohoe
+   
+The County voter's turnout was:
+  - a).Jefferson county 38,855 votes which makes 10.5% of total votes.
+  - b).Denver county 306,055 votes which makes 82.8% of total votes.
+  - c).Arapohoe county 24,801 votes which makes 6.7% of total votes.
+  
+The highest turnout county was:
+  - County b).Denver county 306,055 votes which makes 82.8% of total votes.
+ 
+ ## Election Audit Summary
+ This analysis could be used to any other type of elections in Colorado Board of education. We have program to know all the candidates, the counties and voter turnout. One modification we can do from the given data source is to show the county of each candidates in the results. By doing that one can find the corelation between voters turnout per county and the winning candidate.
+ 
