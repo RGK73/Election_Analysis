@@ -42,7 +42,7 @@ The winner of the election was:
   Then by using repetition statements like for loops, conditional statements with logical operators like if and >, and using f strings in print statements, we were able to format the results in the way as wanted by election commisssion. 
 Lot of formatting has to be done to get the exact format of the results.
 
-### The additional analysis of the election shows that:
+## The additional analysis of the election shows that:
 1. There were "369,711" votes cast in the election.
 2. The counties were:
    - a). Jefferson
